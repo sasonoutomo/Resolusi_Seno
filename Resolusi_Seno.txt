@@ -2,3 +2,4 @@ Seno Resolusi
 - Konsisten membuat konten berita/informasi di web yang mencerdaskan setiap harinya(www.zonaperang.com)
 - Membuat platform tentang teknologi
 - Praktik dan latihan setiap harinya perihal program baik front end, back end, data science ataupun materi lainnya
+- Berkolaborasi dengan para ahli dan para legenda IT
