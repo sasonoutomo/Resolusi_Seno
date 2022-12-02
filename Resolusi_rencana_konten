@@ -1,7 +1,20 @@
 Rencana konten Seno
-- Java Script
+A. Front End
+ - HTML
+ - CSS
+ - Java Script
   * ES6
   * Fremework JS
-- Python
-- Jaringan
-- Kali Linux
+   ^React
+   ^Vue
+   ^Angular
+B. Back End
+ - NodeJS
+ - PHP
+ - Python
+ - Java
+C. Infrastructure
+ - AWS
+ - Jenkins
+ - Kubernetes
+
