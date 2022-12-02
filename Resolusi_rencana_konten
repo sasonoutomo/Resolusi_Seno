@@ -11,10 +11,26 @@ A. Front End
 B. Back End
  - NodeJS
  - PHP
+  ^ Django
  - Python
  - Java
 C. Infrastructure
  - AWS
  - Jenkins
  - Kubernetes
+D. Mobile Apps
+  - Android
+    ^Java
+     ^Kotlin
+  -iOS
+    ^Swift
+E. Data Science
+F. API
+  - Json
+G. Tools
+  - VS Code
+  - Git dan GIT Hub
+  - Cloud Computing
+  - Testing
+  
 
