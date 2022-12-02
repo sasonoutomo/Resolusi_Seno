@@ -1,2 +1,2 @@
 # Resolusi_Seno
-repository untuk menyimpan rencana kedepannya
+repository untuk menyimpan rencana masa depan
