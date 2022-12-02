@@ -1,7 +1,36 @@
 Rencana konten Seno
-Mobile Apps
-- Android
- ^Java
- ^Kotlin
--iOS
- ^Swift
+A. Front End
+ - HTML
+ - CSS
+ - Java Script
+  * ES6
+  * Fremework JS
+   ^React
+   ^Vue
+   ^Angular
+B. Back End
+ - NodeJS
+ - PHP
+  ^ Django
+ - Python
+ - Java
+C. Infrastructure
+ - AWS
+ - Jenkins
+ - Kubernetes
+D. Mobile Apps
+  - Android
+    ^Java
+     ^Kotlin
+  -iOS
+    ^Swift
+E. Data Science
+F. API
+  - Json
+G. Tools
+  - VS Code
+  - Git dan GIT Hub
+  - Cloud Computing
+  - Testing
+  
+
